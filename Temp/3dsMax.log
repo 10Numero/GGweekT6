@@ -1,0 +1,15 @@
+"Start of log file."
+"D:/SCOLARITE/Scolarité 2019-2020/GGWEEK/GGweekT6/Assets/3D/Poule/Poule_anim.max"
+"Starting max loading and fbx conversion"
+window = undefined
+ALC Security Tool 1.0 - ALC corruption found in file: D:\SCOLARITE\Scolarité 2019-2020\GGWEEK\GGweekT6\Assets\3D\Poule\Poule_anim.max
+ALC Security Tool 1.0 - Automatic cleanup of ALC in scene performed since in quiet mode.
+ALC Security Tool 1.0 - Automatic cleanup of ALC from the current scene performed, file: D:\SCOLARITE\Scolarité 2019-2020\GGWEEK\GGweekT6\Assets\3D\Poule\Poule_anim.max
+Warning: Could not create APEX SDK.  APEX features will not be available
+SDK Invalid Parameter: setParameter: parameter value out of range. at line 365, c:\p4\p4sw\sw\physx\PhysXSDK\2.8.5\trunk\SDKs\Core\Software\src\PhysicsSDK.cpp
+Warning: Could not create APEX SDK.  APEX features will not be available
+Switch PhysX SDK to 2.8.5
+"Settings units"
+"Before fbx export"
+"After fbx export"
+"Finished max loading and fbx conversion"
