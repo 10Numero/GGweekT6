@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Kitty_Cat_Adventure.unity
+=======
+- path: "Assets/J\xE9r\xF4me/Scenes/Gameplay.unity"
+>>>>>>> 8501f728b54a883b2560c68abed7abd722da7ff4
   isLoaded: 1
   isActive: 1
   isSubScene: 0
